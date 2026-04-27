@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Vinay N 👋
 
-<!--
-**Arty27/Arty27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer** based in London 🇬🇧
 
-Here are some ideas to get you started:
+I build enterprise-grade web applications with a focus on React, TypeScript, 
+and Node.js. 3.5 years of professional experience shipping production systems 
+at scale. Recently completed an MSc in Computer Science at Queen Mary 
+University of London (2025).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · Redux Toolkit · RTK Query · GSAP · Three.js  
+**Backend:** Node.js · Express · FastAPI · Python · REST · GraphQL  
+**Data:** PostgreSQL · MongoDB · Redis  
+**Infra:** AWS (EKS) · Docker · Kubernetes · Firebase · CI/CD  
+**AI/ML:** Gemini API · scikit-learn · Inngest  
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [📈 StockWatch](https://github.com/Arty27/real-time-stock-market-app) | AI-powered stock watchlist with real-time alerts | Next.js · Gemini · Inngest · MongoDB |
+| [🧠 Fake News Detector](https://github.com/Arty27/fake-news-detector) | NLP classification model with full-stack UI | Python · FastAPI · React |
+| [⚙️ Social Media Microservices](https://github.com/Arty27/social-media-microservices) | Event-driven microservice architecture | Node.js · RabbitMQ · Redis · Docker |
+| [🍎 Apple iPhone 3D Clone](https://github.com/Arty27/apple-iPhone) | 3D product page with scroll animations | React · Three.js · GSAP · Firebase |
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayn027)
+
+💼 **Open to frontend & full stack engineering roles in London**
