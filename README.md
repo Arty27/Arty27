@@ -34,4 +34,4 @@ University of London (2025).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayn027)
 
-💼 **Open to frontend & full stack engineering roles in London**
+💼 **Open to frontend & full stack engineering roles: UK & India**
