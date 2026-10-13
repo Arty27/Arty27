@@ -2,8 +2,8 @@
 
 **Full Stack Engineer** based in London 🇬🇧
 
-I build enterprise-grade web applications with a focus on React, TypeScript, 
-and Node.js. 3.5 years of professional experience shipping production systems 
+I build enterprise-grade web applications with a focus on React, TypeScript, Python 
+and Node.js. 4.5 years of professional experience shipping production systems 
 at scale. Recently completed an MSc in Computer Science at Queen Mary 
 University of London (2025).
 
