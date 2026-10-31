@@ -24,6 +24,7 @@ University of London (2025).
 | Project | Description | Stack |
 |---|---|---|
 | [📈 StockWatch](https://github.com/Arty27/real-time-stock-market-app) | AI-powered stock watchlist with real-time alerts | Next.js · Gemini · Inngest · MongoDB |
+| [🏡 Homio](https://github.com/Arty27/homio) | Cross-platform real estate app  | React Native · Expo · Clerk · Supabase |
 | [🧠 Fake News Detector](https://github.com/Arty27/fake-news-detector) | NLP classification model with full-stack UI | Python · FastAPI · React |
 | [⚙️ Social Media Microservices](https://github.com/Arty27/social-media-microservices) | Event-driven microservice architecture | Node.js · RabbitMQ · Redis · Docker |
 | [🍎 Apple iPhone 3D Clone](https://github.com/Arty27/apple-iPhone) | 3D product page with scroll animations | React · Three.js · GSAP · Firebase |
